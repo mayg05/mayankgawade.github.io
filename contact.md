@@ -1,6 +1,6 @@
 ---
 title: Contact
-permalink: mayankgawade.github.io/contact/
+permalink: /contact/
 ---
 
 # 📫 Connect with Me
