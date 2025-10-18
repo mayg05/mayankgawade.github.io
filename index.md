@@ -11,7 +11,3 @@ You can explore my work in **embedded systems, AI robotics, mechanical design, a
 - [Projects](/projects/)
 - [Resume](/resume/)
 - [Contact](/contact/)
-
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/mayank-gawade)
-- [GitHub](https://github.com/mayankgawade)
