@@ -8,6 +8,6 @@ You can explore my work in **embedded systems, AI robotics, mechanical design, a
 
 ## 📂 Explore
 
-- [Projects](/projects/)
-- [Resume](/resume/)
-- [Contact](/contact/)
+- [Projects](https://mayankgawade.github.io/projects/)
+- [Resume](https://mayankgawade.github.io/resume/)
+- [Contact](https://mayankgawade.github.io/contact/)
