@@ -6,6 +6,11 @@ This is my **portfolio** where I showcase my projects, research, and engineering
 
 You can explore my work in **embedded systems, AI robotics, mechanical design, and solar technology**.
 
+## 📂 Explore
+
+- [Projects](/projects/)
+- [Resume](/resume/)
+- [Contact](/contact/)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/mayank-gawade)
